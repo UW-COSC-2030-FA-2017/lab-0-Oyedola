@@ -1,0 +1,7 @@
+3 Things I learned 
+
+- The "&" regarding pointers returns the memory address.
+
+- The "*" regarding pointers returns the value of the memory address thats being stored.
+
+- Pointers are versatile and very important computer science concepts.
